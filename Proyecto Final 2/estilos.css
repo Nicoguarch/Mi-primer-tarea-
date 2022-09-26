@@ -1,0 +1,84 @@
+body{
+    background-size: 100%;
+    font-family: sans-serif;
+    margin: 0;
+    background-color: pink;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+}
+header{
+    display: flex;
+    height: 70px;
+    background-color: rgb(122, 37, 37);
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.divcentro{
+    display: flex;
+    height: 70px;
+    background-color: #c8c8c8;
+    align-items: center;
+    padding: 15px;
+    margin: 5px;
+    justify-content: space-around;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo-img{
+    font-weight: 600;
+    margin: 5px;
+}
+.logo-img{
+    height: 50px;
+    margin-right: 5px;
+}
+
+nav a{
+    font-weight: 600;
+    padding-right: 10px;
+}
+
+nav a:hover{
+    color: whitesmoke;
+}
+.card-zapas img{
+    max-width: 250px;
+    border: 2px solid black;
+}
+h2{
+    color: rgb(2, 1, 1);
+    text-align: center; 
+
+}
+.article{
+    display: flex;
+    justify-content: center;
+}
+h3{
+    color: rgb(12, 1, 1);
+    font-style: italic;
+    text-align: center;
+}
+p{
+    color: rgb(12, 1, 1);
+    font-style: oblique;
+    text-align: center;
+}
+h4{
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+li{
+    font-style: italic;
+    color: rgb(8, 0, 0);
+    }
+h1{
+    text-align: center;
+}
