@@ -1,2 +1,2 @@
 # proyecto-coder
-Mi primer proyecyo 
+Mi primer proyecto 
